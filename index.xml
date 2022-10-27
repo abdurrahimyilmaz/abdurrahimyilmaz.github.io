@@ -29,20 +29,90 @@
     </item>
     
     <item>
-      <title>Example Project</title>
-      <link>https://abdurrahimyilmaz.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://abdurrahimyilmaz.github.io/project/example/</guid>
-      <description>&lt;p&gt;Objective:&lt;/p&gt;
-&lt;p&gt;My objective:&lt;/p&gt;
-</description>
+      <title>Virtual Sport Coach (Budget:50k USD)</title>
+      <link>https://abdurrahimyilmaz.github.io/project/vsc/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://abdurrahimyilmaz.github.io/project/vsc/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>https://abdurrahimyilmaz.github.io/project/external-project/</link>
+      <title>Cell Stiffness Measurement with Acousto-Holographic Microscope</title>
+      <link>https://abdurrahimyilmaz.github.io/project/acousto-imaging/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://abdurrahimyilmaz.github.io/project/acousto-imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microrobotic Setup GUI and Image-Based Control (Best Paper Award)</title>
+      <link>https://abdurrahimyilmaz.github.io/project/micro-control/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://abdurrahimyilmaz.github.io/project/micro-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laser Scanning Microscope</title>
+      <link>https://abdurrahimyilmaz.github.io/project/laser-scanning-microscope/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://abdurrahimyilmaz.github.io/project/laser-scanning-microscope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flapping Wing UAV (Ornithopter)</title>
+      <link>https://abdurrahimyilmaz.github.io/project/flapping-wing/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://abdurrahimyilmaz.github.io/project/external-project/</guid>
+      <guid>https://abdurrahimyilmaz.github.io/project/flapping-wing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incubator Compatible Holographic Imaging System (Bachelor Thesis)</title>
+      <link>https://abdurrahimyilmaz.github.io/project/ichis/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://abdurrahimyilmaz.github.io/project/ichis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IoT Projects</title>
+      <link>https://abdurrahimyilmaz.github.io/project/iot-projects/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://abdurrahimyilmaz.github.io/project/iot-projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lab Immersion Projects</title>
+      <link>https://abdurrahimyilmaz.github.io/project/immersion-cv/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://abdurrahimyilmaz.github.io/project/immersion-cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microrobotic Mixer</title>
+      <link>https://abdurrahimyilmaz.github.io/project/microrobot-mixer/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://abdurrahimyilmaz.github.io/project/microrobot-mixer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microrobotic Platform for Wound Scratching</title>
+      <link>https://abdurrahimyilmaz.github.io/project/wound-scratcing/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://abdurrahimyilmaz.github.io/project/wound-scratcing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermal Imprint Apparatus</title>
+      <link>https://abdurrahimyilmaz.github.io/project/thermal-imprint-apparatus/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://abdurrahimyilmaz.github.io/project/thermal-imprint-apparatus/</guid>
       <description></description>
     </item>
     

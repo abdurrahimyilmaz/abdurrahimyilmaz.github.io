@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cv | Abdurrahim Yilmaz</title>
+    <link>https://abdurrahimyilmaz.github.io/tag/cv/</link>
+      <atom:link href="https://abdurrahimyilmaz.github.io/tag/cv/index.xml" rel="self" type="application/rss+xml" />
+    <description>cv</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://abdurrahimyilmaz.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>cv</title>
+      <link>https://abdurrahimyilmaz.github.io/tag/cv/</link>
+    </image>
+    
+    <item>
+      <title>Virtual Sport Coach (Budget:50k USD)</title>
+      <link>https://abdurrahimyilmaz.github.io/project/vsc/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://abdurrahimyilmaz.github.io/project/vsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microrobotic Setup GUI and Image-Based Control (Best Paper Award)</title>
+      <link>https://abdurrahimyilmaz.github.io/project/micro-control/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://abdurrahimyilmaz.github.io/project/micro-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laser Scanning Microscope</title>
+      <link>https://abdurrahimyilmaz.github.io/project/laser-scanning-microscope/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://abdurrahimyilmaz.github.io/project/laser-scanning-microscope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lab Immersion Projects</title>
+      <link>https://abdurrahimyilmaz.github.io/project/immersion-cv/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://abdurrahimyilmaz.github.io/project/immersion-cv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

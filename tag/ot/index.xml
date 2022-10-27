@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ot | Abdurrahim Yilmaz</title>
+    <link>https://abdurrahimyilmaz.github.io/tag/ot/</link>
+      <atom:link href="https://abdurrahimyilmaz.github.io/tag/ot/index.xml" rel="self" type="application/rss+xml" />
+    <description>ot</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://abdurrahimyilmaz.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>ot</title>
+      <link>https://abdurrahimyilmaz.github.io/tag/ot/</link>
+    </image>
+    
+    <item>
+      <title>Flapping Wing UAV (Ornithopter)</title>
+      <link>https://abdurrahimyilmaz.github.io/project/flapping-wing/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://abdurrahimyilmaz.github.io/project/flapping-wing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IoT Projects</title>
+      <link>https://abdurrahimyilmaz.github.io/project/iot-projects/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://abdurrahimyilmaz.github.io/project/iot-projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermal Imprint Apparatus</title>
+      <link>https://abdurrahimyilmaz.github.io/project/thermal-imprint-apparatus/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://abdurrahimyilmaz.github.io/project/thermal-imprint-apparatus/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
